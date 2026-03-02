@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ fixing bugs since 2021<br>📚 I'm currently looking for a   full stack developper position <br>🎯 Goals:my goal is to be succeful in my field and learn new useful trick throught my journey <br>🎲 Fun fact: i'm funny and have a sense of humor </p>
+<p align="left">✨ fixing bugs since 2021<br>📚 I'm currently looking for a   New  position <br>🎯 Goals:my goal is to be succeful in my field and learn new useful trick throught my journey <br>🎲 Fun fact: i'm funny and have a sense of humor </p>
 
 ###
 
@@ -28,8 +28,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
   <img width="12" />
